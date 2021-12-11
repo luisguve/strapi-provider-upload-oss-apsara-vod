@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-oss-apsara-vod",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A provider for strapi server to upload file to Aliyun OSS",
   "main": "lib/index.js",
   "directories": {
